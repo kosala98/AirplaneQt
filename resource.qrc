@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/airplane_down.png</file>
+        <file>images/airplane_middle.png</file>
+        <file>images/airplane_up.png</file>
+        <file>images/game_over_red.png</file>
+        <file>images/pillar.png</file>
+        <file>images/sky.png</file>
+        <file>D:/Lessons/Year[3]-Semester 1/SOFT336SL-Cross Platform Application Development in C++/Assignment/sky-new.png</file>
+        <file>images/sky-new.png</file>
+        <file>images/game_over_red new.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+debug/main.o
+debug/pillaritem.o
+debug/planeitem.o
+debug/scene.o
+debug/widget.o
+debug/qrc_resource.o
+debug/moc_pillaritem.o
+debug/moc_planeitem.o
+debug/moc_scene.o
+debug/moc_widget.o
